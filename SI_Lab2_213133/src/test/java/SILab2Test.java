@@ -15,6 +15,7 @@ class SILab2Test {
                         new User("moE", "", "moe@mail.com"))));
         assertFalse(SILab2.function(new User("jondoe", "jondoe", "jondoe.mail.com"), null));
         assertFalse(SILab2.function(new User("", "jondoe 1", " "), null));
+        assertFalse(SILab2.function(new User("", "jondoejondoe", " "), null));
     }
 
     @Test
