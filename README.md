@@ -5,6 +5,7 @@
 # Control Flow Graph:
 
   ![CFG](https://github.com/todorjovanovski/SI_2023_lab2_213133/assets/116504673/52b80b69-f922-4eb3-9f99-882b5a830999)
+  ![CFG](https://github.com/todorjovanovski/SI_2023_lab2_213133/assets/116504673/a120055c-6bc4-40e1-995b-99c396c83a4a)
 
 # Цикломатска комплексност:
 
